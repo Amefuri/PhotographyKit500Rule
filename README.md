@@ -1,1 +1,1 @@
-# PhotographyKit500Rult
+# PhotographyKit500Rule
